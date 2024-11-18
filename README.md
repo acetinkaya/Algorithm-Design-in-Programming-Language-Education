@@ -12,18 +12,21 @@ Algorithm Design in Programming Language Education
   
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
+---
 
-** Kitap Bölümü Bilgileri
+** Book Title / Kitap İsmi: Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II.
 
-Kongre İsmi: 8. ULUSLARARASI MÜHENDİSLİK VE TEKNOLOJİ YÖNETİMİ KONGRESİ
+Book Chapter Information / Kitap Bölümü Bilgileri: Algorithm Design in Programming Language Education, Chapter from the book: Kaygusuz, K. (ed.) 2023. Interdisciplinary Studies on Contemporary Research Practices in Engineering in the 21st Century II.
 
-Kongre Kitabı ISBN No: 978-625-7367-70-7
+Chapter DOI: https://doi.org/10.58830/ozgur.pub95.c444
 
-Kongre Tarihleri: 08-09-10 Aralık 2022 İSTANBUL
+ISBN No: 978-975-447-611-8
 
-[Kongre İnternet Sayfası](https://www.muhendislikveteknolojiyonetimikongresi.org)
+Published: March 24, 2023
 
-[1. Araştma Yayın Linki](https://scholar.google.com.tr/citations?view_op=view_citation&hl=tr&user=XSEW-NcAAAAJ&sortby=pubdate&citation_for_view=XSEW-NcAAAAJ:M3ejUd6NZC8C)
+[Kitap İnternet Sayfası](https://www.ozguryayinlari.com/site/catalog/book/95) 
+
+[Kitap Bölümü Sayfası](https://www.ozguryayinlari.com/site/catalog/book/95/chapter/444)
 
 [2. Araştma Yayın Linki](https://avesis.gelisim.edu.tr/yayin/37a2c628-3f1a-4e03-ad22-2bc667e3998a/yapay-zeka-kapsaminda-otonom-araclarin-ozelliklerinin-degerlendirilmesi)
 
@@ -42,8 +45,8 @@ Anahtar Kelimeler: Otonom Araçlar, Araç Teknolojisi, Yapay Zeka, AR-GE Yöneti
 - **APA**: Çap, G. B.,  & Çetinkaya, A., (2022).  Yapay Zeka Kapsamında Otonom Araçların Özelliklerinin Değerlendirilmesi . 8. Uluslararası Mühendislik ve Teknoloji Yönetimi Kongresi (pp.326-332). İstanbul, Turkey                            
 - **MLA**: Çap, Gökhan B.  And Çetinkaya, ALİ.  "Yapay Zeka Kapsamında Otonom Araçların Özelliklerinin Değerlendirilmesi."  8. Uluslararası Mühendislik ve Teknoloji Yönetimi Kongresi , İstanbul, Turkey, pp.326-332, 2022                
 
-![alternatif metin](https://github.com/acetinkaya/Yapay-Zeka-Kapsaminda-Otonom-Araclarin-Ozelliklerinin-Degerlendirilmesi/blob/main/yz_bildiri.png)
+![alternatif metin](https://github.com/acetinkaya/Algorithm-Design-in-Programming-Language-Education/blob/main/Algorithm-Design.png)
 
 License:
 
-This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
+This work is licensed under a Creative Commons Attribution 4.0 International License.
