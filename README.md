@@ -26,17 +26,15 @@ Published: March 24, 2023
 
 [Kitap İnternet Sayfası](https://www.ozguryayinlari.com/site/catalog/book/95) 
 
-[Kitap Bölümü Sayfası](https://www.ozguryayinlari.com/site/catalog/book/95/chapter/444)
+[Chapter](https://www.ozguryayinlari.com/site/catalog/book/95/chapter/444)
 
-[2. Araştma Yayın Linki](https://avesis.gelisim.edu.tr/yayin/37a2c628-3f1a-4e03-ad22-2bc667e3998a/yapay-zeka-kapsaminda-otonom-araclarin-ozelliklerinin-degerlendirilmesi)
+[Chapter PDF](https://www.ozguryayinlari.com/site/catalog/view/95/360/893)
 
-[4. Araştma Yayın Linki](https://www.instagram.com/p/Cl24S8VsLTN/)
+[ResearchGate](https://www.researchgate.net/publication/369571661_Algorithm_Design_in_Programming_Language_Education)
 
-Öz:
+Abstract:
 
-Endüstri 4.0 ile otonom araçların kullanımları ve uygulamaları giderek artarak ön plana çıkmaktadır. Günümüzde, Yapay Zeka (YZ) algoritmalarıyla bütünleşen araçların "otonom araç" olarak isimlendirilmesi gerekmektedir. Otonom araçlar teknolojiye bağlı olarak sürekli geliştirme gösteren sistemlerdir. Üzerinde bulunan elektronik üniteler ile çevresindeki nesneleri tanımlayabilmektedir. Araçlar üzerindeki elektronik devreler, sensörler, kamera ve lidarların aynı anda kontrolünü yazılımlardaki Yapay Zeka algoritmaları sayesinde yapabilmektedir. Bu işlemleri ve hesaplamaları yaparken insan müdahalesine ihtiyaç duymadan çalışmasını gerçekleştirebilmektedir. Yapay Zeka’nın araç sistemleri üzerinde kullanımı teknolojinin gelişmesiyle birlikte giderek artarken kişilerin farkındalığının da arttırılması gerekmektedir. Çünkü Yapay Zeka ile hayatımıza giren kavramlar günlük hayatın bir parçası olarak kullanımı giderek artmaktadır. Bu kapsamda Yapay Zeka’nın her geçen gün daha fazla kullanım alanlarıyla birlikte otonom araç uygulamaları ileriki zamanlarda hayatın her alanında (hava, kara, deniz ve uzay) yaşamımızda olacaktır. Bu çalışma kapsamında otonom araçlar üzerinde kullanılan teknolojiler incelemesi yapılmıştır. Bu inceleme sonrasında Yapay Zeka algoritmaları kapsamında araçların üzerindeki donanımlar değerlendirilmiştir. Otonom araç sistemlerinde park sensörü, geri görüş kamerası, şerit takip sistemi, otomatik pilot, çarpışma önleyici ve otomatik park asistanı kavramları Yapay Zeka açısından incelenerek nitel bir değerlendirme yapılmıştır. Tespit edilen veriler bünyesinde otonom araç sistemlerinde Yapay Zeka özellikleri içerisinde mevcut olan veya ileriki zamanlarda geliştirilecek sistemlere öneriler getirilmiştir. Sonuçlar karşılaştırmalı olarak sunulmuştur.
-
-Anahtar Kelimeler: Otonom Araçlar, Araç Teknolojisi, Yapay Zeka, AR-GE Yönetimi
+The field of algorithm development on computer systems continues to grow in importance in today’s world, highlighting the critical nature of algorithm design and implementation. With the increasing diversity of algorithm use cases, it is essential to emphasize the significance of proper algorithm design methods for each problem. As such, the design of new and effective algorithms is of paramount importance to the continued growth and innovation of computer systems. Algorithms play a crucial role in solving problems within established systems. Therefore, it is important to detail the appropriate algorithm methods for each problem. As the areas of algorithm use become more diverse, the programming languages used in these platforms also change. This study aims to help learners understand the steps to take when designing algorithms and learning programming languages, regardless of the language used. Common algorithm designs are demonstrated on Python, C, C++, and C# programming languages. These designs cover shared concepts across all four languages and will aid in coding on these programming languages. The goal is to learn and apply algorithm design on multiple programming languages. This study covers the basics of algorithms, programming, programming concepts, and the fundamentals of computer programming. It is essential to understand these topics in programming language education in order to correctly and error-free install algorithms, helping newcomers to the software industry take the correct steps.
 
 ## How to Cite / Nasıl Alıntı Yapılır
 
